@@ -15,6 +15,7 @@ function App() {
     <main>
       <h1>Bonzai</h1>
       <h1>Create React App + Go API</h1>
+      <h4>It is Wednesday my dudes</h4>
       <h2>
         Deployed with{" "}
         <a
